@@ -9,11 +9,11 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.types import ParseMode
 from aiogram.utils import executor
 
-from Translator.aiogram.types import Message
+from aiogram.types import Message
 
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = '6060797370:AAF2qE_d8b9yheQZeIO7z3IWxZ5DDxgxk9s'
+API_TOKEN = '6381194434:AAHrvLJ7jlZH3eUgfL76PmtWS7NGKEaA7Aw'
 
 
 bot = Bot(token=API_TOKEN)
